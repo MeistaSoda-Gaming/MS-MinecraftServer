@@ -1,0 +1,101 @@
+[16:14:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:14:23] [ServerMain/INFO]: Loaded 7 recipes
+[16:14:23] [ServerMain/INFO]: Loaded 1271 advancements
+[16:14:25] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[16:14:25] [Server thread/INFO]: Loading properties
+[16:14:25] [Server thread/INFO]: Default game type: SURVIVAL
+[16:14:25] [Server thread/INFO]: Generating keypair
+[16:14:25] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:287) ~[?:?]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:345) ~[?:?]
+	at java.io.BufferedInputStream.implRead(BufferedInputStream.java:420) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:399) ~[?:?]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:329) ~[?:?]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:372) ~[?:?]
+	at sun.nio.cs.StreamDecoder.lockedRead(StreamDecoder.java:215) ~[?:?]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:169) ~[?:?]
+	at java.io.InputStreamReader.read(InputStreamReader.java:188) ~[?:?]
+	at java.io.BufferedReader.fill(BufferedReader.java:160) ~[?:?]
+	at java.io.BufferedReader.implReadLine(BufferedReader.java:370) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:347) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:436) ~[?:?]
+	at ama$1.run(SourceFile:89) ~[server-1.20.4.jar:?]
+[16:14:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:14:26] [Server thread/INFO]: Using default channel type
+[16:14:26] [Server thread/INFO]: Preparing level "world"
+[16:14:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:14:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:14:41] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[16:14:42] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[16:14:42] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[16:14:42] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[16:14:42] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[16:14:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:14:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:14:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:14:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:14:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:14:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:14:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:14:42] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[16:14:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:14:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:14:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:14:42] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[16:14:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:14:42] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[16:14:42] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[16:14:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:14:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:14:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:14:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:14:42] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[16:14:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:14:42] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[16:14:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:14:43] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[16:14:43] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[16:14:44] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[16:14:44] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[16:14:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:14:45] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[16:14:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:14:46] [Worker-Main-4/INFO]: Preparing spawn area: 9%
+[16:14:47] [Worker-Main-4/INFO]: Preparing spawn area: 11%
+[16:14:47] [Worker-Main-5/INFO]: Preparing spawn area: 24%
+[16:14:48] [Worker-Main-7/INFO]: Preparing spawn area: 32%
+[16:14:48] [Worker-Main-1/INFO]: Preparing spawn area: 38%
+[16:14:49] [Worker-Main-1/INFO]: Preparing spawn area: 47%
+[16:14:49] [Worker-Main-1/INFO]: Preparing spawn area: 63%
+[16:14:50] [Worker-Main-4/INFO]: Preparing spawn area: 78%
+[16:14:50] [Server thread/INFO]: Time elapsed: 22131 ms
+[16:14:50] [Server thread/INFO]: Done (24.582s)! For help, type "help"
+[16:16:09] [User Authenticator #1/INFO]: UUID of player MeistaSoda is 1781873d-3621-4fe7-b02f-ff7c06f3650d
+[16:16:09] [Server thread/INFO]: MeistaSoda[/192.168.1.77:59669] logged in with entity id 176 at (302.19509916109, 83.5, -516.3999634433496)
+[16:16:09] [Server thread/INFO]: MeistaSoda joined the game
+[16:37:43] [Server thread/INFO]: MeistaSoda lost connection: Disconnected
+[16:37:43] [Server thread/INFO]: MeistaSoda left the game
+[16:41:50] [User Authenticator #2/INFO]: UUID of player MeistaSoda is 1781873d-3621-4fe7-b02f-ff7c06f3650d
+[16:41:51] [Server thread/INFO]: MeistaSoda[/192.168.1.77:62081] logged in with entity id 3489 at (294.0719279716348, 115.87606026508846, -475.4909911728459)
+[16:41:51] [Server thread/INFO]: MeistaSoda joined the game
+[16:49:56] [Server thread/INFO]: Made MeistaSoda a server operator
+[16:50:09] [Server thread/INFO]: [MeistaSoda: Set spawn point to 310, 70, -456 [0.0] in minecraft:overworld for MeistaSoda]
+[16:50:38] [Server thread/INFO]: [MeistaSoda: Set the world spawn point to 313, 69, -455 [0.0]]
+[16:55:23] [Server thread/INFO]: [MeistaSoda: The difficulty has been set to Peaceful]
+[16:57:21] [Server thread/INFO]: [MeistaSoda: Set own game mode to Adventure Mode]
+[16:57:37] [Server thread/INFO]: [MeistaSoda: Set the time to 1000]
+[17:25:30] [Server thread/INFO]: Stopping the server
+[17:25:30] [Server thread/INFO]: Stopping server
+[17:25:30] [Server thread/INFO]: Saving players
+[17:25:30] [Server thread/INFO]: MeistaSoda lost connection: Server closed
+[17:25:30] [Server thread/INFO]: MeistaSoda left the game
+[17:25:30] [Server thread/INFO]: Saving worlds
+[17:25:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Wereworlfed]'/minecraft:overworld
+[17:25:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Wereworlfed]'/minecraft:the_nether
+[17:25:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Wereworlfed]'/minecraft:the_end
+[17:25:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:25:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:25:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:25:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
