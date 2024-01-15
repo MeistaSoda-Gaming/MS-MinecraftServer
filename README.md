@@ -1,6 +1,8 @@
 # MS Minecraft Server (Java Edition)
 This repository serves the purpose of easily setting up a Minecraft server and will show different methods and crucial steps of that process.
 
+Downloading this whole repository saves the process of downloading the Minecraft server files and creating a new world.
+
 ## Methods
 We will showcase not every possible method of hosting a minecraft server but rather relevant ones:
 - Creating a server in a new generated world.
