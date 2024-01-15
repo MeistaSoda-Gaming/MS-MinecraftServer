@@ -36,6 +36,7 @@ The initial setup will take around 1-2 minutes and will say "Done" as soon as th
 Type `help` inside the input field at the server window to receive information to available commands.
 
 6. Jump into the game and join through the server address `localhost` or your local IP-address.
+   To stop the server, write `stop` into the server application. This will shut down the server and save all changes.
 
 ## :two: Importing existing world
 
